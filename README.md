@@ -3,7 +3,7 @@
 
 <!-- body -->
 ## wooseok shin (@shinwoos)
-*front-end developer*
+💻*front-end developer*
 
 
 <!-- badge -->
