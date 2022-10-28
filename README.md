@@ -1,5 +1,4 @@
 <!-- heading -->
-# cover letter
 
 <!-- body -->
 ## wooseok shin (@shinwoos)
