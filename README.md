@@ -4,9 +4,9 @@
 
 ## wooseok shin (@shinwoos)
 
-💻*front-end developer*
+<!--💻*front-end developer*
 
-<!-- badge -->
+ badge 
 
 🔥*Tech Stack*  
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -21,4 +21,4 @@
 <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/NEXT.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
+<img src="https://img.shields.io/badge/NEXT.js-000000?style=for-the-badge&logo=next.js&logoColor=white"> -->
