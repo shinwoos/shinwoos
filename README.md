@@ -32,3 +32,5 @@ lang icon https://simpleicons.org/?q=flask
 <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/NEXT.js-000000?style=for-the-badge&logo=next.js&logoColor=white"> -->
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shinwoos)
