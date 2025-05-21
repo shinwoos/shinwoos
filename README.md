@@ -5,7 +5,6 @@
 ## wooseok shin (@shinwoos)
 
 
-<center>
  🔥*Tech Stack*  
  <img src="https://img.shields.io/badge/maven-C71A36?style=for-the-badge&logo=ApacheMaven&logoColor=white">
  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=Git&logoColor=white">
@@ -36,7 +35,7 @@
 
  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shinwoos&theme=shades-of-purple)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeho13&layout=compact&theme=shades-of-purple)
-</center>
+
 
 <!--💻*front-end developer*
 lang icon https://simpleicons.org/?q=flask
