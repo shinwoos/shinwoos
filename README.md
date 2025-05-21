@@ -21,6 +21,8 @@
 <img src="https://img.shields.io/badge/centOS-262577?style=for-the-badge&logo=CentOS&logoColor=white">
 <img src="https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white">
 
+<br>
+<br>
 
 <!--💻*front-end developer*
 lang icon https://simpleicons.org/?q=flask
