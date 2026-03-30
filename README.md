@@ -2,7 +2,7 @@
 
 <!-- body -->
 
-## wooseok shin (@shinwoos)
+## wss
 
 
 <h3 align="center">🔥<strong>Tech Stack</strong></h3>  
