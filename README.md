@@ -38,8 +38,8 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shinwoos&theme=shades-of-purple" alt="Anurag's github stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinwoos&layout=compact&theme=shades-of-purple" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api?username=shinwoos&theme=shades-of-purple">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinwoos&layout=compact&theme=shades-of-purple">
 </p>
 
 
