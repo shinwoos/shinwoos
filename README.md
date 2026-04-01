@@ -1,57 +1,64 @@
-<!-- heading -->
+<!-- HEADER -->
 
-<!-- body -->
+<h1 align="center">WSS</h1>
 
-## wss
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2000&pause=800&color=8A2BE2&center=true&vCenter=true&width=600&lines=FastAPI+%7C+Spring+Boot+%7C+Realtime;System+Architecture+%7C+Data+Pipeline;Backend+Engineer" />
+</p>
 
-
-<h3 align="center">🔥<strong>Tech Stack</strong></h3>  
-
-
-<p align+"center">
-  <img src="https://img.shields.io/badge/maven-C71A36?style=for-the-badge&logo=ApacheMaven&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"> 
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/centOS-262577?style=for-the-badge&logo=CentOS&logoColor=white">
-  <img src="https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white">
- </p>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/backend-focused-0f172a?style=for-the-badge&logo=server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/system-engineering-6d28d9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/realtime-processing-2563eb?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/data-pipeline-f97316?style=for-the-badge"/>
+</p>
 
 ---
 
+# ⚡ Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shinwoos&theme=shades-of-purple">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinwoos&layout=compact&theme=shades-of-purple">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shinwoos&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shinwoos&theme=tokyonight&hide_border=true"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shinwoos&theme=tokyonight"/>
+</p>
 
+---
 
-<!--💻*front-end developer*
-lang icon https://simpleicons.org/?q=flask
- badge 
+# 🧠 Focus
 
-<img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
-<img src="https://img.shields.io/badge/graphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white">
-<img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/NEXT.js-000000?style=for-the-badge&logo=next.js&logoColor=white"> -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend-020617?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Realtime Systems-1e40af?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Async Processing-7c3aed?style=flat-square"/>
+  <img src="https://img.shields.io/badge/System Design-f59e0b?style=flat-square"/>
+</p>
 
+---
+
+# 🧩 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,fastapi,python,redis,mysql,linux,react,js&theme=dark"/>
+</p>
+
+---
+
+# ⚡ Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shinwoos&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🚀 Signature
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Build Systems That Actually Run-black?style=for-the-badge"/>
+</p>
+
+---
